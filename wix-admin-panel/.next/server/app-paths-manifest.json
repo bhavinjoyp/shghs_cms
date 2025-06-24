@@ -1,0 +1,9 @@
+{
+  "/api/gallery/route": "app/api/gallery/route.js",
+  "/api/gallery/[id]/route": "app/api/gallery/[id]/route.js",
+  "/gallery/page": "app/gallery/page.js",
+  "/news/page": "app/news/page.js",
+  "/news/[id]/edit/page": "app/news/[id]/edit/page.js",
+  "/gallery/[id]/edit/page": "app/gallery/[id]/edit/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}

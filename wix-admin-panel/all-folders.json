@@ -1,0 +1,311 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "c788e656973c4987b55a94a98e744dce",
+            "displayName": "Website Content 2025-26",
+            "parentFolderId": "media-root",
+            "createdDate": "2025-06-24T03:39:38.000Z",
+            "updatedDate": "2025-06-24T03:39:38.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "4949528208e048ffa71bac5b5556794a",
+            "displayName": "timeline",
+            "parentFolderId": "media-root",
+            "createdDate": "2025-05-03T13:29:13.000Z",
+            "updatedDate": "2025-05-03T13:29:13.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "04f22317385a4f11b5c0a04c2685fe12",
+            "displayName": "Imports",
+            "parentFolderId": "media-root",
+            "createdDate": "2025-02-12T04:57:09.000Z",
+            "updatedDate": "2025-02-12T04:57:09.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "8aa605a83c6e406098404df7f5c9fe0a",
+            "displayName": "Admission",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-11-13T05:20:57.000Z",
+            "updatedDate": "2024-11-13T05:20:57.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "2de3be8a021e4f45aa2319557ea75a2a",
+            "displayName": "magazine",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-11-11T13:16:11.000Z",
+            "updatedDate": "2024-11-11T13:16:11.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "0319f24eed9b4337a79afeb56b75e61e",
+            "displayName": "Gallery & News",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-08-15T03:49:39.000Z",
+            "updatedDate": "2024-08-15T03:49:39.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "cddf7c6a40994858b3e5b0c47fd427f8",
+            "displayName": "SHPTA",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-07-04T14:23:08.000Z",
+            "updatedDate": "2024-07-04T14:23:08.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "286ec76a83fd40c1918a6f2cf9a946c7",
+            "displayName": "Cabinet",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-01-06T13:58:02.000Z",
+            "updatedDate": "2024-01-06T13:58:02.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "e5f6cfb647554c46aa18e8e45811f25c",
+            "displayName": "Faculty",
+            "parentFolderId": "media-root",
+            "createdDate": "2024-01-06T13:32:02.000Z",
+            "updatedDate": "2024-01-06T13:32:02.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "820d9d03808b4382bce313a03685c286",
+            "displayName": "Profile Pictures",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-25T06:39:21.000Z",
+            "updatedDate": "2023-11-25T06:39:21.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "0fe1765924384699bf666936dfc9fd55",
+            "displayName": "Facilities",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-24T05:00:51.000Z",
+            "updatedDate": "2023-11-24T05:00:51.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "81b4b25ca83a4125b3b8beecbd1e9cf1",
+            "displayName": "GS",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T09:12:58.000Z",
+            "updatedDate": "2023-11-23T09:12:58.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "dfe9147f6e744739ba048a6ad08a6dd1",
+            "displayName": "Staff",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T07:59:36.000Z",
+            "updatedDate": "2023-11-23T07:59:36.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "2bde39c266a5472b8a1a9b28c59918b0",
+            "displayName": "Nursery",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T07:58:55.000Z",
+            "updatedDate": "2023-11-23T07:58:55.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "24b310e4edf4433cb838258a59e6bbcb",
+            "displayName": "Logos",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T07:58:40.000Z",
+            "updatedDate": "2023-11-23T07:58:40.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "3afd4c0b089c4facb5751f667f02cffa",
+            "displayName": "History",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T07:58:26.000Z",
+            "updatedDate": "2023-11-23T07:58:26.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "f8f4200841224141879cda49019fc16d",
+            "displayName": "Foundress",
+            "parentFolderId": "media-root",
+            "createdDate": "2023-11-23T07:58:10.000Z",
+            "updatedDate": "2023-11-23T07:58:10.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "9d0082a7e2dc4620a9af0986eacbea56",
+            "displayName": "2025-26 News",
+            "parentFolderId": "c788e656973c4987b55a94a98e744dce",
+            "createdDate": "2025-06-24T03:44:41.000Z",
+            "updatedDate": "2025-06-24T03:44:41.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "fdf9fa883af549218a9397534714ad66",
+            "displayName": "2025-26 Gallery",
+            "parentFolderId": "c788e656973c4987b55a94a98e744dce",
+            "createdDate": "2025-06-24T03:44:34.000Z",
+            "updatedDate": "2025-06-24T03:44:34.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "92e19a89a8a643049de2229e610ab046",
+            "displayName": "Gallery",
+            "parentFolderId": "04f22317385a4f11b5c0a04c2685fe12",
+            "createdDate": "2025-02-20T10:05:36.000Z",
+            "updatedDate": "2025-02-20T10:05:36.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "4d7d040217a445fe84d2240bdee65d91",
+            "displayName": "News",
+            "parentFolderId": "04f22317385a4f11b5c0a04c2685fe12",
+            "createdDate": "2025-02-12T04:57:15.000Z",
+            "updatedDate": "2025-02-12T04:57:15.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "142406658e8c4c03ac2219a1d9dda90a",
+            "displayName": "House",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-25T06:11:02.000Z",
+            "updatedDate": "2023-11-25T06:11:02.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "e1841abc6c8f4c2daf0f079f921ae09a",
+            "displayName": "Clubs",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-25T05:43:25.000Z",
+            "updatedDate": "2023-11-25T05:43:25.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "f89abd31a1ff401fb74ab39b88ae31bb",
+            "displayName": "Library",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:06:08.000Z",
+            "updatedDate": "2023-11-24T05:06:08.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "fca00f4099324ff2a1449dfbe4daed4b",
+            "displayName": "Lab",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:05:33.000Z",
+            "updatedDate": "2023-11-24T05:05:33.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "139723bbd2874495ad14eef144d135ba",
+            "displayName": "Infrastructure",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:05:13.000Z",
+            "updatedDate": "2023-11-24T05:05:13.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "995c9094e9f64c2f91cb693a246b964d",
+            "displayName": "Health",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:04:46.000Z",
+            "updatedDate": "2023-11-24T05:04:46.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "e24832b30f024c1daa881e257aa03c69",
+            "displayName": "Co Curricular",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:04:16.000Z",
+            "updatedDate": "2023-11-24T05:04:16.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "13827e3759be4c1b940a489063aae3e3",
+            "displayName": "Outdoor",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T05:03:09.000Z",
+            "updatedDate": "2023-11-24T05:03:09.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "06dca27dfb2f4f1294bd6d0a46c4b9d4",
+            "displayName": "3D Lab",
+            "parentFolderId": "0fe1765924384699bf666936dfc9fd55",
+            "createdDate": "2023-11-24T04:51:28.000Z",
+            "updatedDate": "2023-11-24T04:51:28.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "0f52967fae834b53b19fc22d3b8b13a2",
+            "displayName": "Career Exploration Programme",
+            "parentFolderId": "4d7d040217a445fe84d2240bdee65d91",
+            "createdDate": "2025-02-12T05:03:59.000Z",
+            "updatedDate": "2025-02-12T05:03:59.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "94c4acd1ccbc45099a478964e2065a46",
+            "displayName": "Fine Dining Etiquette Workshop for ISC",
+            "parentFolderId": "4d7d040217a445fe84d2240bdee65d91",
+            "createdDate": "2025-02-12T04:57:29.000Z",
+            "updatedDate": "2025-02-12T04:57:29.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "d89b1ec6ea5a4eb3b5e1fa283ab389f0",
+            "displayName": "NCC",
+            "parentFolderId": "e24832b30f024c1daa881e257aa03c69",
+            "createdDate": "2023-11-25T04:28:27.000Z",
+            "updatedDate": "2023-11-25T04:28:27.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        },
+        {
+            "id": "9ea3f7c2f83040aaa93db3fccdbf860e",
+            "displayName": "Spell Bee",
+            "parentFolderId": "e24832b30f024c1daa881e257aa03c69",
+            "createdDate": "2023-11-25T04:10:03.000Z",
+            "updatedDate": "2023-11-25T04:10:03.000Z",
+            "state": "OK",
+            "namespace": "NO_NAMESPACE"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "wix-admin-panel",
+  "version": "1.0.0",
+  "description": "Admin panel for managing Wix CMS content and images.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.5.0",
+    "firebase": "^11.9.1",
+    "lucide-react": "^0.263.1",
+    "next": "15.0.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.0.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.3"
+  },
+  "keywords": [
+    "wix",
+    "admin",
+    "panel",
+    "nextjs",
+    "cms"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
